@@ -2,7 +2,6 @@
 
 Python scripts for web data collection, public catalog audits, accessibility checks and report generation. Built and run from an Android phone with Termux.
 
-I write these scripts with AI coding assistants and test every result myself before using it.
 
 ## Scripts
 
